@@ -19,13 +19,26 @@ Ideal pra treinar lógica básica, manipulação do DOM e interações com o usu
 
 
 ---
-                                                                                  <img src="img/Sorteador.png" alt="imagem-sorteador"/>
-## 🧱 Estrutura
+ ## 📷 Preview
 
-```bash
-.
-├── index.html      # Estrutura principal
-├── styles.css      # Estilo da interface
-├── scripts.js      # Lógica do sorteio
-└── img/
-    └── sort-1.png  # Imagem do projeto
+<p align="center">
+     <img src="img/Sorteador.png" alt="imagem-sorteador"/>                                              
+</p>  
+
+---
+💡 Possíveis melhorias futuras
+Implementar validação avançada dos campos (ex: tratar NaN, intervalos invertidos etc).
+
+Adicionar feedback visual (loading ou animação ao sortear).
+
+Permitir múltiplos sorteios com histórico.
+
+Implementar modo escuro com toggle.
+
+Deploy com GitHub Pages para facilitar o acesso.
+
+---
+🤝 Contribuições
+Contribuições são bem-vindas!
+Sinta-se à vontade para abrir uma issue para reportar bugs ou sugerir melhorias. Pull requests também são muito apreciados.
+
