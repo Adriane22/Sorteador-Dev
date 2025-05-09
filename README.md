@@ -21,7 +21,7 @@ Ideal pra treinar lógica básica, manipulação do DOM e interações com o usu
 - Vanilla JS (sem libs)
 
 ---
-
+                                                                                  <img src="img/Sorteador.png" alt="imagem-sorteador"/>
 ## 🧱 Estrutura
 
 ```bash
