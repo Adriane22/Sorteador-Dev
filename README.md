@@ -15,10 +15,8 @@ Ideal pra treinar lógica básica, manipulação do DOM e interações com o usu
 ---
 
 ## 🛠️ Stack
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/>
 
-- HTML5 sem firula
-- CSS3 (responsivo e com Roboto do Google Fonts)
-- Vanilla JS (sem libs)
 
 ---
                                                                                   <img src="img/Sorteador.png" alt="imagem-sorteador"/>
